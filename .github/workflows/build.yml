@@ -17,4 +17,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Campbell_Diagram_Tool
-        path: dist/CAMPBELL.exe
+        path: dist/main.exe
